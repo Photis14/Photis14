@@ -54,7 +54,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> 
     </a>
 </p>
-<h3 align="left">Frameworks and DBMS:</h3>
+<h3 align="left">Frameworks, Libraries, and Database Management Systems:</h3>
 <p align="left">
     <!-- .NET -->
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
