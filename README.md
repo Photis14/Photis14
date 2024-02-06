@@ -55,7 +55,7 @@
     </a>
     <!-- XAML -->
     <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank" rel="noreferrer">
-        <img src="https://www.flaticon.com/free-icon/xaml_7488854" alt="xaml" width="40" height="40"/> 
+        <img src="[https://www.flaticon.com/free-icon/xaml_7488854](https://spin.atomicobject.com/wp-content/uploads/Microsoft_WPF.png)" alt="xaml" width="40" height="40"/> 
     </a>
 </p>
 <h3 align="left">Frameworks and DBMS:</h3>
