@@ -55,7 +55,7 @@
     </a>
     <!-- XAML -->
     <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/XAML_Logo.svg" alt="xaml" width="40" height="40"/> 
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fxaml_7488982&psig=AOvVaw1PLyVs2SkuR7R0DPEPWPsJ&ust=1707339652110000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLji7P3Nl4QDFQAAAAAdAAAAABAJ" alt="xaml" width="40" height="40"/> 
     </a>
 </p>
 <h3 align="left">Frameworks and DBMS:</h3>
@@ -113,7 +113,7 @@
     </a>
     <!-- Spyder -->
     <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
-        <img src="URL_TO_SPYDER_ICON" alt="Spyder" width="40" height="40"/> <!-- Placeholder for Spyder icon -->
+        <img src="[URL_TO_SPYDER_ICON](https://commons.wikimedia.org/wiki/File:Spyder_logo.svg)" alt="Spyder" width="40" height="40"/> 
     </a>
 </p>
 <h3 align="left">Operating Systems:</h3>
