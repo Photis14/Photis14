@@ -53,9 +53,9 @@
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> 
     </a>
-    <!-- XAML -->
+   <!-- XAML -->
     <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank" rel="noreferrer">
-        <img src="[https://www.flaticon.com/free-icon/xaml_7488854](https://spin.atomicobject.com/wp-content/uploads/Microsoft_WPF.png)" alt="xaml" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/XAML_Logo.svg" alt="xaml" width="40" height="40"/>
     </a>
 </p>
 <h3 align="left">Frameworks and DBMS:</h3>
@@ -113,8 +113,9 @@
     </a>
     <!-- Spyder -->
     <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
-        <img src="[URL_TO_SPYDER_ICON](https://commons.wikimedia.org/wiki/File:Spyder_logo.svg)" alt="Spyder" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" width="40" height="40"/> 
     </a>
+
 </p>
 <h3 align="left">Operating Systems:</h3>
 <p align="left">
