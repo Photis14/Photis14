@@ -53,10 +53,6 @@
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> 
     </a>
-   <!-- XAML -->
-    <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/XAML_Logo.svg" alt="xaml" width="40" height="40"/>
-    </a>
 </p>
 <h3 align="left">Frameworks and DBMS:</h3>
 <p align="left">
@@ -126,10 +122,6 @@
     <!-- Linux -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    </a>
-    <!-- MacOS -->
-    <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-        <img src="URL_TO_MACOS_ICON" alt="MacOS" width="40" height="40"/> 
     </a>
 </p>
 
