@@ -13,11 +13,9 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-    <!-- Gosu -->
+     <!-- Gosu -->
     <a href="https://www.guidewire.com/developers/developer-tools-and-guides/gosu-programming-language" target="_blank" rel="noreferrer">
-        <img
-  src='data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137 100"> <image href="https://upload.wikimedia.org/wikipedia/commons/8/88/Gosu-logo.png" width="137" height="100"/> </svg>' alt="Gosu logo" width="40" height="40"
-/>
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgZmlsbD0iY3VycmVudENvbG9yIj48cGF0aCAgZD0iTTgwLjI3MSAyODUuMjY4YzAtMzcuMzI0LTEuNTA1LTEwMC4yNC0xLjUwNS0xMTguM3MxMC4wMjctNTkuODk2IDU0LjMzOC02Mi4xNjhjNDQuMzExLTIuMjczIDEwNi45OTYtMS45MzUgMTIxLjc0NS0xLjkzNWMxMi4wNCAwIDExLjEzNyAxNy43NTggMTEuMTM3IDE3Ljc1OHYyNy4xODhzLTEuNTA1IDcuNTI1LTEzLjg0NiA3LjUyNWgtOTQuMjEycy0xNS4wNSAxLjIwNC0xNS4wNSAyMC4xNjZ2OTYuMjIxcy0yLjQwOCAxOC4zNiAyMS42NzIgMTguMzZoMzguODI4czE4Ljk2My0uMyAxOC45NjMtMTcuNDU3cy0zLjAxLTI4LjI5My0xNS4zNS0yOC4yOTNzLTI2LjE4NyA0LjUxNC0yNi4xODctOC43M3YtMjQuOTgycy0uNjAyLTkuNDgxIDkuNDgxLTkuNDgxaDg1LjAzMXMxMC44MzYtMS45NTcgMTAuODM2IDE3LjAwNmMwIDExLjg1Mi4zIDY1LjIxLS4wMDEgOTYuMjEzYy0uMTc2IDE4LjA2NS00LjcwMiAxOS4zNy0xMy44NDUgMTkuMzdjLTI0LjM4IDAtOTguNzI2IDUuNDE3LTEyOS40MjggNi4wMTlzLTYyLjYwNy0xNy4xNTctNjIuNjA3LTU0LjQ4bTMyMi41MyA3MC4xOTZjLTI3LjE1LTIuMTQzLTY0LjkzNy0uNzEtNzUuMzc0LTMuMjE1Yy0xNy44NjItNC4yODYtMTcuMTQ3IDguMjE2LTE3LjE0NyA4LjIxNnYzMi44NjVjMCA3Ljg1OSA4LjQ1MyAxMC4wMDcgOC40NTMgMTAuMDA3czUwLjUwNCAxLjc0MSAxMjYuOTUgNS42N3M2NS44MTMtNzMuMDQgNjUuODEzLTczLjA0YzAtMjUuOTktMi4yNDItNzQuNTk2LTYzLjY4NS03NC41OTZoLTYyLjA1Yy0yMC4wMjUgMC0xNy44OTQtMzguMjY3LS40MjYtMzguMjY3czk1LjE4NS4yMjIgOTUuMTg1LjIyMmMxMi4zNjUtLjk1MSAxMy4zNzktMTIuMzc1IDEzLjM3OS0xMi4zNzV2LTI3LjEwOHMyLjg1My0xMi44NC0xMi4zNjUtMTIuODRIMzcyLjYyN3MtNjUuNjI5LTYuNjY0LTY1LjYyOSA3My4yMzhjMCA3My4yMzkgNTkuNDQ3IDcwLjM4NSA1OS40NDcgNzAuMzg1czUzLjI2NCAyLjM3OCA2Ni41OCAyLjM3OHMyNS4zNDggMzIuNjM3IDEuNTY5IDQwLjI0NmMwIDAtMTYuMDc1IDIuNS0zMS43OTMtMS43ODZNNDEuNDE2IDMyMC41NTd2LTIwLjQ1YzAtNS41LTQuNS0xMC05Ljk5OS0xMEg5Ljk5OWMtNS41IDAtOS45OTkgNC41LTkuOTk5IDEwdjIwLjQ1YzAgNS41IDQuNSAxMCAxMCAxMGgyMS40MTdjNS41IDAgMTAtNC41IDEwLTEwIi8+PC9zdmc+" alt="gosu" width="40" height="40"/>
     </a>
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
