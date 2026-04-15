@@ -36,20 +36,20 @@
     <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> 
     </a>
+    <!-- Json -->
+    <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="json" width="40" height="40"/> 
+    </a>
 </p>
 <h3 align="left">Frameworks, Libraries, and Database Management Systems:</h3>
 <p align="left">
-    <!-- SQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-    </a>
-    <!-- Django -->
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-    </a>
     <!-- Qt -->
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
+    </a>
+     <!-- Oracle -->
+    <a href="https://www.oracle.com/database/?source=:ad:pas:go:awr:a_nas:l5:RC_GOOG220512P00032C00769:MainAd&gad_source=1&gad_campaignid=22629264603&gbraid=0AAAAADtVWWwWUgVZGruDAft0Tx8EzsbFr&gclid=Cj0KCQjwy_fOBhC6ARIsAHKFB7_2nbnO5a_bUAsgha9sffIsXZZPTZcIs62lqAd5N6LTbMQD_VVKm_4aAtDVEALw_wcB" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
 </p>
     <h3 align="left">Software:</h3>
@@ -64,7 +64,7 @@
     </a>
      <!-- Bitbucket -->
     <a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="GitHub" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/>
     </a>
     <!-- Bash -->
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -72,11 +72,15 @@
     </a>
       <!-- Jenkins -->
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-plain.svg" alt="Bash" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-plain.svg" alt="Jenkins" width="40" height="40"/>
     </a>
     <!-- VS Code -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    </a>
+     <!-- Postman -->
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" alt="Postman" width="40" height="40"/>
     </a>
     <!-- Eclipse -->
     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
