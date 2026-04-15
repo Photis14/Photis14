@@ -15,7 +15,9 @@
 <p align="left">
     <!-- Gosu -->
     <a href="https://www.guidewire.com/developers/developer-tools-and-guides/gosu-programming-language" target="_blank" rel="noreferrer">
-        <img src="https://edge.sitecorecloud.io/guidewiresodb06-guidewire0f2e-productioncd91-5186/media/images/resources/developer/developer-tools/gosu/logo-large-300x69.png" alt="gosu" width="40" height="40"/>
+        <img
+  src='data:image/svg+xml;utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137 100"> <image href="https://upload.wikimedia.org/wikipedia/commons/8/88/Gosu-logo.png" width="137" height="100"/> </svg>' alt="Gosu logo" width="40" height="40"
+/>
     </a>
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
