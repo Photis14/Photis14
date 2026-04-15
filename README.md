@@ -95,10 +95,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
     </a>
 </p>
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=photis14&show_icons=true&locale=en&layout=compact" alt="photis14" /></p>
