@@ -13,6 +13,10 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
+    <!-- Gosu -->
+    <a href="https://www.guidewire.com/developers/developer-tools-and-guides/gosu-programming-language" target="_blank" rel="noreferrer">
+        <img src="https://picsvg.com/svg/Z24L2.jpg alt="gosu" width="40" height="40"/>
+    </a>
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
